@@ -12,3 +12,4 @@ La solución automatiza el circuito comercial unificando la facturación electr�
 
 ## Enlaces de Interés
 * **Tablero de Gestión:** [Acceso al Tablero Ágil](https://github.com/users/lagunaflorencia2001-sudo/projects)
+* **Estado:** Rama de actualización en proceso.
