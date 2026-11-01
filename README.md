@@ -13,3 +13,13 @@ La solución automatiza el circuito comercial unificando la facturación electr�
 ## Enlaces de Interés
 * **Tablero de Gestión:** [Acceso al Tablero Ágil](https://github.com/users/lagunaflorencia2001-sudo/projects)
 * **Estado:** Rama de actualización en proceso.
+  
+## Mecanismos de Control y Uso de IA
+
+### 1. Controles y Estándares
+* **Revisión de cambios:** Validación de que las actualizaciones en Git pasen por control antes de unirse a la rama principal (`main`).
+* **Consistencia operativa:** Verificación de que el flujo de stock y ventas de Venzo sea coherente.
+
+### 2. Declaración de Uso de IA
+* **Uso de la IA:** La herramienta se utilizó como guía y apoyo ante preguntas muy puntuales para estructurar la documentación y el formato del proyecto.
+* **Corrección y filtro humano:** Todo el material generado fue revisado, editado y adaptado manualmente al caso de negocio real de **Venzo** (ensamblaje y gestión de repuestos), asegurando el cumplimiento de las consignas de la cátedra.
