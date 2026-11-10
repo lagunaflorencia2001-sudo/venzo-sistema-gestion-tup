@@ -18,7 +18,14 @@ La solución automatiza el circuito comercial unificando la facturación electr�
 
 ### 1. Controles y Estándares
 * **Revisión de cambios:** Validación de que las actualizaciones en Git pasen por control antes de unirse a la rama principal (`main`).
+* 
 * **Consistencia operativa:** Verificación de que el flujo de stock y ventas de Venzo sea coherente.
+* ### 1. Controles e Indicadores Técnicos Medibles
+* **Precisión del Stock:** 0% de discrepancia entre las unidades físicas en depósito y el registro en la base de datos tras confirmarse una venta de bicicletas o repuestos.
+* **SLA de API AFIP:** ≤ 2.5 segundos de demora promedio en la comunicación y obtención exitosa del CAE desde el Web Service fiscal.
+* **Eficacia de Validación:** ≥ 95% de solicitudes de venta aprobadas en el primer intento mediante máscaras de validación en el frontend.
+* **SLA Operativo de Depósito:** ≤ 45 minutos desde la emisión de la Factura Electrónica automatizada hasta que el área de taller finaliza el empaque físico.
+
 
 ### 2. Declaración de Uso de IA
 * **Uso de la IA:** La herramienta se utilizó como guía y apoyo ante preguntas muy puntuales para estructurar la documentación y el formato del proyecto.
